@@ -1,0 +1,98 @@
+#A{
+    background-image: url(https://revsportz.in/wp-content/uploads/2023/05/MS-Dhoni-3.jpeg ) ;
+    background-repeat: repeat-x;
+    background-size: contain;
+}
+.B{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    text-decoration:underline;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     
+}
+.C{
+    text-align: right;
+    color: white;
+    font-size: 20px;
+    text-shadow:1px 1px 1px white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+    
+}
+.D{
+    text-align: center;
+    color:white;
+    font-size: 20px;
+    text-transform: lowercase;
+    text-shadow: 1px 1px 1px white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.E{
+    color:white;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 1px white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+}
+.G{
+    color: blue;
+
+}
+.F{
+    
+    background-color: white;
+    width:300px;
+    height: 300px;
+    margin:70px 450px;
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.I{
+    color:blue;
+    
+}
+
+.K{
+    color:blue;
+
+}
+.H{
+    background-color: white;
+    width:300px;
+    height: 300px;
+    margin:70px 450px;
+    text-align: center;
+    box-shadow: 2px blue;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    
+
+}
+.J{
+    background-color: white;
+    width:300px;
+    height: 300px;
+    margin:70px 450px;
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+
+}
+.ab{
+    background-color:rgb(106, 182, 212);
+    width:1250px;
+    height:1150px;
+}
+.x{
+    background-color: orange;
+    color:aliceblue;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
